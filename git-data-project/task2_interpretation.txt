@@ -1,0 +1,22 @@
+TASK 2 - INTERPRETATION OF RESULTS
+
+1. Filtering:
+70 of the 100 repositories have more than 10,000 stars, showing that most repositories in this collected dataset are highly popular.
+
+2. Searching:
+30 repository names contain the word "Machine", showing that a substantial part of the collected results are directly related to machine-learning projects by name.
+
+3. Aggregate results:
+The dataset contains 100 repositories and the average number of stars is 20,831.08.
+
+4. Top repositories:
+TensorFlow has the highest number of stars (197,560), followed by Transformers (164,403) and ML-For-Beginners (89,755).
+
+5. Programming languages:
+Python is the most common known programming language, with 30 repositories. Jupyter Notebook has 19 repositories, C++ has 12, and 23 repositories have an Unknown language value.
+
+6. Creation trend:
+The repositories in this dataset were created between 2009 and 2024. The creation-trend chart shows how the number of collected repositories varies by year.
+
+7. Business insight:
+The dataset is strongly centered on machine-learning projects, with Python and Jupyter Notebook being particularly common. A small group of repositories has very high star counts, indicating that popularity is concentrated among a few well-known projects.
